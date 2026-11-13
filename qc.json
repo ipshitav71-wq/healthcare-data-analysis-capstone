@@ -1,0 +1,34 @@
+{
+ "dup_ids_clean": 0,
+ "dup_rows_raw": 153,
+ "age_range": [
+  18,
+  96
+ ],
+ "age_out": 0,
+ "los_range": [
+  1,
+  38
+ ],
+ "los_out": 0,
+ "comorb_range": [
+  0.0,
+  7.0
+ ],
+ "prior_range": [
+  0,
+  7
+ ],
+ "dest_valid": true,
+ "ward_valid": true,
+ "binary_ok": true,
+ "month_ok": true,
+ "pat_inconsistent": 0,
+ "n_pat_multi": 5894,
+ "excl_flags_left": 0,
+ "raw_miss_income_rural": [
+  5.1,
+  11.0
+ ],
+ "raw_n": 25583
+}
